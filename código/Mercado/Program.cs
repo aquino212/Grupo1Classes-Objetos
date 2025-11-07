@@ -2,7 +2,7 @@
 
 Console.Clear();
 
-//cria objetos para a classe mercado
+//cria objetos para a classe
 
 Produtos Abacaxi = new Produtos("Abacaxi", 4, 33); 
 
