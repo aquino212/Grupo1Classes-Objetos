@@ -3,7 +3,7 @@ namespace Mercado
     public class Produtos
     {
 
-        //variáveis que guardam as informações do produto.
+        //variáveis que guardam as informações do produto
         public string Nome;
         public double Preco;
         public int Estoque;
